@@ -1,6 +1,6 @@
 - 👋 Hi, I’m my name is Lucas Chan From Malaysia
 - 👀 I’m interested in eat, code, sleep, repeat
-- 🌱 I’m currently learning Spring boot and Flask
+- 🌱 I’m currently learning mainly on frameworks like Spring boot and Flask 
 - 💞️ I’m looking to collaborate on all kinds of fun projects
 - 📫 You can reach me by email: chilamlol@hotmail.com
 
