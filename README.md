@@ -4,6 +4,16 @@
 - 💞️ I’m looking to collaborate on all kinds of fun projects
 - 📫 You can reach me by email: chilamlol@hotmail.com
 
+Tech stack:
+- Flask
+- Spring boot
+- Docker
+- Git
+- Bitbucket 
+- Python
+- Java
+- C++
+- Django
 <!---
 chilamlol/chilamlol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
