@@ -1,6 +1,6 @@
 - 👋 Hi, I’m my name is Lucas Chan From Malaysia
 - 👀 I’m interested on building reliable and robust system
-- 🌱 I’m currently learning mainly on frameworks like Spring boot and actively using Flask framework on developing APIs 
+- 🌱 I’m backend developer that have experience in Spring boot and Flask framework
 - 💞️ I’m looking to collaborate on all kinds of fun projects
 - 📫 You can reach me by email: chilamlol@hotmail.com
 
