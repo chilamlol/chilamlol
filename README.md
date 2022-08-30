@@ -1,5 +1,5 @@
 - 👋 Hi, I’m my name is Lucas Chan From Malaysia
-- 👀 I’m interested on contributing into the open source
+- 👀 I’m interested on contributing into the open source and building cool stuff
 - 🌱 I’m backend developer that have experience in Spring boot and Flask framework
 - 💞️ I’m looking to collaborate on all kinds of fun projects
 - 📫 You can reach me by email: chilamlol@hotmail.com
